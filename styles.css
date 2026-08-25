@@ -67,3 +67,9 @@ body {
     text-align: center;        /* Centers text when stacked on phone screens */
   }
 }
+
+.gamebutton {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
